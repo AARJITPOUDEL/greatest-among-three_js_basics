@@ -1,0 +1,19 @@
+{
+  "name": "greatest-among-three_js_basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AARJITPOUDEL/greatest-among-three_js_basics.git"
+  },
+  "author": "aarjit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AARJITPOUDEL/greatest-among-three_js_basics/issues"
+  },
+  "homepage": "https://github.com/AARJITPOUDEL/greatest-among-three_js_basics#readme"
+}
